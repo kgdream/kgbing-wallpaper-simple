@@ -1,3 +1,7 @@
+# 下载链接
+https://wwbpg.lanzouu.com/i1r813l8pwdi  1.0 初代版本
+https://wwbpg.lanzouu.com/iUB6w3qpe8sf  2.0 正式版
+
 # kgbing-wallpaper-simple
 极简黑白线条风格的 Bing 壁纸切换工具。
 # KGbing Wallpaper Simple
